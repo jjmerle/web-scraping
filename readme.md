@@ -1,0 +1,1 @@
+This is a repositiory for my current web-scraping practice/projects. I intend to create applications used to mine data for analysis. 
